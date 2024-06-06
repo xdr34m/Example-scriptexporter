@@ -1,0 +1,3 @@
+scripts:
+  - name: randfloat
+    command: /mnt/c/Users/xdream/Desktop/git/linux/randfloat.sh   
