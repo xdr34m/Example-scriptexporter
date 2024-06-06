@@ -1,0 +1,9 @@
+scripts:
+  - name: randfloat
+    command: powershell.exe    
+    args:
+      - -NoProfile
+      - -ExecutionPolicy
+      - Bypass
+      - -File 
+      - C:/Users/xdream/Downloads/randfloat.ps1
